@@ -1,8 +1,8 @@
-Name=("Ukaegbu Daniel Chinwendu")
+Name="Ukaegbu Daniel Chinwendu"
 print(Name)
-Email=("ukaegbudaniel33@gmail.com")
+Email="ukaegbudaniel33@gmail.com"
 print(Email)
-Slack_Username=("Daniel")
+Slack_Username="Daniel"
 print("Slack_Username")
-Biostack=("python")
+Biostack="python"
 print(Biostack)
